@@ -1,0 +1,14 @@
+git init
+git status
+git branch -m branchname(proj name or jeera num)
+git add .(all files) or file name(single file)
+git status
+git rm --cached <file>... to unstage any unwanted files)
+git commit -m "commit nmae"(First commit)
+git status(After comminting)
+git remote add origin https://github.com/Haritha82/HybridFramework.git
+git push -u origin main1(branch name---code is moving to git
+
+
+
+
