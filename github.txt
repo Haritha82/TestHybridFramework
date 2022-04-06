@@ -7,8 +7,21 @@ git rm --cached <file>... to unstage any unwanted files)
 git commit -m "commit nmae"(First commit)
 git status(After comminting)
 git remote add origin https://github.com/Haritha82/HybridFramework.git
-git push -u origin main1(branch name---code is moving to git
+git push -u origin main1(branch name---code is moving to git)
 
+
+Git commands:
+Git cmds: 1.git status
+ 2.git init 
+ 3.git add . 
+ 4.git status 
+ 5.git commit -m"linkedin.com" 
+ 6. git config --global user.email "sreedevikm.mca@gmail.com" 
+ 7.git config --global user.name "sreedevi" 
+ 8.git commit -m"linkedin.com" 
+ 9. git status 
+ 10.git remote add origin https://github.com/kmsreedevi/New-HybridFramework.git
+11.git push -u origin main
 
 
 
